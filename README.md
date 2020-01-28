@@ -1,0 +1,1 @@
+This is a Inventory Management API, It will connect out to a MongoDB server. It will have the ability to Create new Items for inventory, Read what Items are in the inventory, Update the prices, quantity, and description of items, and delete old items that are no longer availible for sale.
