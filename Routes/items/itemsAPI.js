@@ -16,4 +16,16 @@ router.post('/', async (req, res) => {
     res.send(postItem)
 })
 
+router.put('/', (req, res) => {
+
+})
+
+router.patch('/', (req, res) => {
+
+})
+
+router.delete('/', (req, res) => {
+
+})
+
 module.exports = router
